@@ -1,10 +1,6 @@
-import * as modal from './model.js';
-import recipeView from './Views/recipeView.js';
-//
-//
-//
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
+import * as modal from './model.js';
 import recipeView from './Views/recipeView.js';
 //
 //
@@ -20,14 +16,18 @@ const controlRecipes = async function () {
     const id = window.location.hash.slice(1);
     if (!id) return;
     recipeView.renderSpinner();
+
     //1) loading the recipe
     await modal.loadRecipe(id);
+
     // 2) Rendering the recipe
     recipeView.render(modal.state.recipe);
   } catch (error) {
-    console.log(error);
+    recipeView.renderError();
   }
 };
-['hashchange', 'load'].forEach(ev =>
-  window.addEventListener(ev, controlRecipes)
-);
+
+const init = function () {
+  recipeView.addHandlerRender(controlRecipes);
+};
+init();
