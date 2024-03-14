@@ -4,6 +4,7 @@ import * as model from './model.js';
 import recipeView from './Views/recipeView.js';
 import searchView from './Views/searchView.js';
 import resultsView from './Views/resultsView.js';
+import paginationView from './Views/paginationView.js';
 if (module.hot) {
   module.hot.accept();
 }
@@ -34,8 +35,9 @@ const controlSearchResults = async function () {
     // 2) Load search results
     await model.loadSearchResults(query);
     // 3) Render the results
-    // console.log(model.state.search.results);
-    resultsView.render(model.state.search.results);
+    resultsView.render(model.getSearchResultsPage(1));
+    // 4) render the pagination buttons
+    paginationView.render(model.state.search);
   } catch (error) {
     console.log(error);
   }
