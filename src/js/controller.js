@@ -42,9 +42,17 @@ const controlSearchResults = async function () {
     console.log(error);
   }
 };
+
+const controlPagination = function(goToPage) {
+  // 1) Render the new results
+  resultsView.render(model.getSearchResultsPage(goToPage));
+  // 2) render the new pagination buttons
+  paginationView.render(model.state.search);
+}
+
 const init = function () {
   recipeView.addHandlerRender(controlRecipes);
-
   searchView.addHandelerSearch(controlSearchResults);
+  paginationView.addHandlerClick(controlPagination);
 };
 init();
