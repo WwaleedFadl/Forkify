@@ -8,6 +8,7 @@ import paginationView from './Views/paginationView.js';
 if (module.hot) {
   module.hot.accept();
 }
+
 // Api
 const controlRecipes = async function () {
   try {
@@ -24,6 +25,7 @@ const controlRecipes = async function () {
     recipeView.renderError();
   }
 };
+
 const controlSearchResults = async function () {
   try {
     //0
@@ -43,15 +45,23 @@ const controlSearchResults = async function () {
   }
 };
 
-const controlPagination = function(goToPage) {
+const controlPagination = function (goToPage) {
   // 1) Render the new results
   resultsView.render(model.getSearchResultsPage(goToPage));
   // 2) render the new pagination buttons
   paginationView.render(model.state.search);
-}
+};
+
+const controlServings = function (newServings) {
+  // 1) update the recipe servings in the state
+  model.updateServings(newServings);
+  // 2) update the view as well
+  recipeView.render(model.state.recipe);
+};
 
 const init = function () {
   recipeView.addHandlerRender(controlRecipes);
+  recipeView.addHandlerUpdateServings(controlServings);
   searchView.addHandelerSearch(controlSearchResults);
   paginationView.addHandlerClick(controlPagination);
 };
