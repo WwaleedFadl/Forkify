@@ -1,4 +1,4 @@
-9675
+9677
 96D:\Code Home\Javascript\Current\Forkify\node_modules\css-tree\cjs\tokenizer\OffsetToLocation.cjs133544709510368315 0
 78D:\Code Home\Javascript\Current\Forkify\node_modules\node-addon-api\napi-inl.h133544709010367609 0
 87D:\Code Home\Javascript\Current\Forkify\node_modules\svgo\plugins\convertShapeToPath.js133544709424394506 0
@@ -34,7 +34,7 @@
 102D:\Code Home\Javascript\Current\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133544709500996463 0
 90D:\Code Home\Javascript\Current\Forkify\node_modules\@parcel\runtime-js\src\helpers\worker133544709393100269 1
 65D:\Code Home\Javascript\Current\Forkify\node_modules\htmlnano\lib133544709502634051 1
-44D:\Code Home\Javascript\Current\Forkify\dist133551482950620365 1
+44D:\Code Home\Javascript\Current\Forkify\dist133551634289954985 1
 118D:\Code Home\Javascript\Current\Forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133544709696534437 0
 113D:\Code Home\Javascript\Current\Forkify\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.js133544708712929044 0
 90D:\Code Home\Javascript\Current\Forkify\node_modules\css-tree\cjs\syntax\node\Brackets.cjs133544709027822744 0
@@ -62,7 +62,7 @@
 122D:\Code Home\Javascript\Current\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\index.js133544709475772718 0
 102D:\Code Home\Javascript\Current\Forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\Raw.js133544709708083657 0
 76D:\Code Home\Javascript\Current\Forkify\node_modules\csso\cjs\replace\atrule133544709317578266 1
-52D:\Code Home\Javascript\Current\Forkify\src\js\Views133549297601082924 1
+52D:\Code Home\Javascript\Current\Forkify\src\js\Views133551622751787699 1
 92D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\modules\esnext.json.raw-json.js133545276433423174 0
 89D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\proposals\using-statement.js133545276720045702 0
 102D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\proposals\change-array-by-copy-stage-4.js133545276360713978 0
@@ -214,7 +214,7 @@
 66D:\Code Home\Javascript\Current\Forkify\dist\index.62406edb.js.map133545138216803761 0
 106D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\modules\es.typed-array.uint8-clamped-array.js133545276424646937 0
 70D:\Code Home\Javascript\Current\Forkify\node_modules\binary-extensions133545137469046520 1
-60D:\Code Home\Javascript\Current\Forkify\src\js\controller.js133551482949505435 0
+60D:\Code Home\Javascript\Current\Forkify\src\js\controller.js133551620591557632 0
 71D:\Code Home\Javascript\Current\Forkify\node_modules\@parcel\diagnostic133544708889185917 1
 99D:\Code Home\Javascript\Current\Forkify\node_modules\css-tree\cjs\syntax\node\AttributeSelector.cjs133544708990174004 0
 86D:\Code Home\Javascript\Current\Forkify\node_modules\source-map-js\lib\mapping-list.js133544708882759117 0
@@ -228,7 +228,7 @@
 70D:\Code Home\Javascript\Current\Forkify\src\js\Views\paginationView.js133549297601072881 0
 76D:\Code Home\Javascript\Current\Forkify\node_modules\braces\lib\constants.js133544708936501489 0
 92D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\stable\typed-array\find-last.js133545276509571265 0
-67D:\Code Home\Javascript\Current\Forkify\src\js\Views\resultsView.js133550776716949694 0
+67D:\Code Home\Javascript\Current\Forkify\src\js\Views\resultsView.js133551632933651095 0
 85D:\Code Home\Javascript\Current\Forkify\node_modules\@parcel\core\lib\public\Asset.js133544709173592087 0
 90D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\internals\is-big-int-array.js133545276549737163 0
 110D:\Code Home\Javascript\Current\Forkify\node_modules\react-refresh\cjs\react-refresh-runtime.production.min.js133544708924544470 0
@@ -256,7 +256,7 @@
 98D:\Code Home\Javascript\Current\Forkify\node_modules\@swc\helpers\_\_get_prototype_of\package.json133544709686013850 0
 84D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\features\set-timeout.js133545276651090391 0
 93D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\features\symbol\to-string-tag.js133545276711656947 0
-60D:\Code Home\Javascript\Current\Forkify\src\js\Views\View.js133550779543150024 0
+60D:\Code Home\Javascript\Current\Forkify\src\js\Views\View.js133551634288444980 0
 100D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\modules\esnext.data-view.get-float16.js133545276429783828 0
 91D:\Code Home\Javascript\Current\Forkify\node_modules\type-fest\source\conditional-keys.d.ts133544709009273819 0
 62D:\Code Home\Javascript\Current\Forkify\node_modules\callsites133544708751023425 1
@@ -2956,7 +2956,7 @@
 71D:\Code Home\Javascript\Current\Forkify\node_modules\domhandler\LICENSE133544708704832762 0
 74D:\Code Home\Javascript\Current\Forkify\node_modules\is-json\test\index.js133544708927654575 0
 108D:\Code Home\Javascript\Current\Forkify\node_modules\@parcel\transformer-posthtml\lib\PostHTMLTransformer.js133544708739244671 0
-66D:\Code Home\Javascript\Current\Forkify\dist\index.e37f48ea.js.map133551482950620365 0
+66D:\Code Home\Javascript\Current\Forkify\dist\index.e37f48ea.js.map133551634289914977 0
 75D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\actual\self.js133545276650498259 0
 68D:\Code Home\Javascript\Current\Forkify\node_modules\is-glob\LICENSE133544708705752751 0
 92D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\actual\dom-collections\index.js133545276543914111 0
@@ -3607,7 +3607,7 @@
 101D:\Code Home\Javascript\Current\Forkify\node_modules\css-select\node_modules\domutils\lib\legacy.d.ts133544709448319136 0
 93D:\Code Home\Javascript\Current\Forkify\node_modules\csso\node_modules\css-tree\lib\generator133544709722447901 1
 92D:\Code Home\Javascript\Current\Forkify\node_modules\csso\node_modules\css-tree\lib\index.js133544709669660780 0
-55D:\Code Home\Javascript\Current\Forkify\dist\index.html133551468204898571 0
+55D:\Code Home\Javascript\Current\Forkify\dist\index.html133551634289874977 0
 91D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\modules\esnext.math.degrees.js133545276446913722 0
 89D:\Code Home\Javascript\Current\Forkify\node_modules\csso\node_modules\css-tree\lib\lexer133544709735352648 1
 101D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\modules\esnext.async-iterator.indexed.js133545276429693860 0
@@ -5131,7 +5131,7 @@
 85D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\actual\json\stringify.js133545276673834437 0
 84D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\stable\instance\flat.js133545276519934751 0
 100D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\modules\es.typed-array.float64-array.js133545276417830323 0
-65D:\Code Home\Javascript\Current\Forkify\dist\favicon.8b2f57bf.png133551479746904536 0
+65D:\Code Home\Javascript\Current\Forkify\dist\favicon.8b2f57bf.png133551634289814980 0
 88D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\stable\instance\includes.js133545276542121688 0
 88D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\stable\instance\index-of.js133545276542260460 0
 83D:\Code Home\Javascript\Current\Forkify\node_modules\core-js\full\array\flat-map.js133545276519238611 0
@@ -9666,11 +9666,13 @@
 66D:\Code Home\Javascript\Current\Forkify\node_modules\.bin\svgo.ps1133544710029389410 0
 80D:\Code Home\Javascript\Current\Forkify\node_modules\.bin\update-browserslist-db133544710030609447 0
 64D:\Code Home\Javascript\Current\Forkify\dist\Forkify.3464ddca.js133545138216783750 0
-63D:\Code Home\Javascript\Current\Forkify\dist\icons.21bad73c.svg133551479746884540 0
 63D:\Code Home\Javascript\Current\Forkify\dist\icons.dfd7a6db.svg133548816162506120 0
 62D:\Code Home\Javascript\Current\Forkify\dist\index.62406edb.js133545138216783750 0
-63D:\Code Home\Javascript\Current\Forkify\dist\index.f7626f62.css133551479747218728 0
-67D:\Code Home\Javascript\Current\Forkify\dist\index.f7626f62.css.map133551479747305994 0
-62D:\Code Home\Javascript\Current\Forkify\dist\logo.726d37a8.png133551479747218728 0
 88D:\Code Home\Javascript\Current\Forkify\.settings\org.eclipse.wst.jsdt.ui.superType.name133549773599466003 0
-62D:\Code Home\Javascript\Current\Forkify\dist\index.e37f48ea.js133551482950600352 0
+69D:\Code Home\Javascript\Current\Forkify\src\js\Views\bookMarksView.js133551632910194622 0
+67D:\Code Home\Javascript\Current\Forkify\src\js\Views\previewView.js133551627132227124 0
+63D:\Code Home\Javascript\Current\Forkify\dist\icons.21bad73c.svg133551634289774989 0
+62D:\Code Home\Javascript\Current\Forkify\dist\logo.726d37a8.png133551634289814980 0
+62D:\Code Home\Javascript\Current\Forkify\dist\index.e37f48ea.js133551634289894982 0
+63D:\Code Home\Javascript\Current\Forkify\dist\index.f7626f62.css133551634289934969 0
+67D:\Code Home\Javascript\Current\Forkify\dist\index.f7626f62.css.map133551634289944975 0
