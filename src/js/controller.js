@@ -6,6 +6,7 @@ import searchView from './Views/searchView.js';
 import resultsView from './Views/resultsView.js';
 import paginationView from './Views/paginationView.js';
 import bookMarksView from './Views/bookMarksView.js';
+import addRecipeView from './Views/addRecipeView.js';
 if (module.hot) {
   module.hot.accept();
 }
@@ -75,6 +76,10 @@ const controlAddBookmark = function () {
 };
 const controlBookmarks = function () {
   bookMarksView.render(model.state.bookmarks);
+};
+const controlAddRecipe = function (newRecipe) {
+  console.log(newRecipe);
+  // Upload the new Recipe data
 };
 //
 const init = function () {
